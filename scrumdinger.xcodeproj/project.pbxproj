@@ -11,6 +11,8 @@
 		370D53F926BA4A140051D233 /* MeetingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 370D53F826BA4A140051D233 /* MeetingView.swift */; };
 		370D53FB26BA4A150051D233 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 370D53FA26BA4A150051D233 /* Assets.xcassets */; };
 		370D53FE26BA4A150051D233 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 370D53FD26BA4A150051D233 /* Preview Assets.xcassets */; };
+		370D540826BA524F0051D233 /* DailyScrum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 370D540726BA524F0051D233 /* DailyScrum.swift */; };
+		370D540A26BA53880051D233 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 370D540926BA53880051D233 /* CardView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +22,8 @@
 		370D53FA26BA4A150051D233 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		370D53FD26BA4A150051D233 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		370D53FF26BA4A150051D233 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		370D540726BA524F0051D233 /* DailyScrum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DailyScrum.swift; sourceTree = "<group>"; };
+		370D540926BA53880051D233 /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +61,8 @@
 				370D53FA26BA4A150051D233 /* Assets.xcassets */,
 				370D53FF26BA4A150051D233 /* Info.plist */,
 				370D53FC26BA4A150051D233 /* Preview Content */,
+				370D540726BA524F0051D233 /* DailyScrum.swift */,
+				370D540926BA53880051D233 /* CardView.swift */,
 			);
 			path = scrumdinger;
 			sourceTree = "<group>";
@@ -139,6 +145,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				370D53F926BA4A140051D233 /* MeetingView.swift in Sources */,
+				370D540826BA524F0051D233 /* DailyScrum.swift in Sources */,
+				370D540A26BA53880051D233 /* CardView.swift in Sources */,
 				370D53F726BA4A140051D233 /* scrumdingerApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
